@@ -1,7 +1,7 @@
 <img alt="coding" width="" src="https://media.licdn.com/dms/image/v2/D4D16AQEKYw5KdSrCYQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715264063023?e=1730937600&v=beta&t=DH2HloYX6WpQlVt58AtvQ680uHLaRwiH9n-h5IRUoFo">
 <h1 align="center">Hi 👋 I'm Aysegul</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cinar00&label=Profile%20views&color=0e75b6&style=flat" alt="cinar00" /> </p>
-<img align="right" alt="coding" width="400" src="https://giphy.com/embed/KGhpQ5NMoWKQurlHwI">
+<img align="right" alt="coding" width="400" src="[https://giphy.com/embed/KGhpQ5NMoWKQurlHwI](https://giphy.com/embed/KGhpQ5NMoWKQurlHwI](https://sdtimes.com/wp-content/uploads/2014/09/0919.sdt-github.gif)">
 
 
 
