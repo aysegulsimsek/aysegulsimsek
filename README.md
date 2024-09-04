@@ -1,7 +1,7 @@
 <img alt="coding" width="" src="https://media.licdn.com/dms/image/v2/D4D16AQEKYw5KdSrCYQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715264063023?e=1730937600&v=beta&t=DH2HloYX6WpQlVt58AtvQ680uHLaRwiH9n-h5IRUoFo">
 <h1 align="center">Hi 👋 I'm Aysegul</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cinar00&label=Profile%20views&color=0e75b6&style=flat" alt="cinar00" /> </p>
-<img align="right" alt="coding" width="400" src="[https://giphy.com/embed/hpXdHPfFI5wTABdDx9](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3YzbDkxMnlxYzVwazRpanRvZDd4cXlhbGE0d21wNnc3cmp6MWFtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.webp)">
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3YzbDkxMnlxYzVwazRpanRvZDd4cXlhbGE0d21wNnc3cmp6MWFtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.webp">
 
 
 
